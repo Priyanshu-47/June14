@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\models\\dtos\\addmemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:models\\dtos\\addmemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\contexts\\junecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:contexts\\junecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|c:\\users\\2000123584\\project\\junecc\\junecc\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FFECC-C4C9-46FA-B783-3E038B45C456}|JuneCC.csproj|solutionrelative:interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAwMzMzM7MnwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:12:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Interfaces\\IMemberService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Interfaces\\IMemberService.cs",
+              "RelativeToolTip": "Interfaces\\IMemberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:15:09.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "Services\\MemberService.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Services\\MemberService.cs",
+              "RelativeToolTip": "Services\\MemberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:23:56.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T07:10:20.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAADQmZmZmRkmwBoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:31:38.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAABEAAAAAnJmZmRktwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:46:59.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAoAAAAAmJmZmRkYwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:00:50.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Controllers\\MemberController.cs",
+              "ViewState": "AQIAAD4AAAAg0czMzEwuwBsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:58:54.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddMemberDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Models\\DTOs\\AddMemberDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\AddMemberDTO.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Models\\DTOs\\AddMemberDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\AddMemberDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:16:23.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:47:51.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:55:37.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:37:48.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "Repositories\\MemberRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwDIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:31:39.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JuneContext.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Contexts\\JuneContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\JuneContext.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\JuneCC\\JuneCC\\Contexts\\JuneContext.cs",
+              "RelativeToolTip": "Contexts\\JuneContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:23:35.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

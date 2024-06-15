@@ -1,0 +1,6 @@
+@JuneCC_HostAddress = http://localhost:5186
+
+GET {{JuneCC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
